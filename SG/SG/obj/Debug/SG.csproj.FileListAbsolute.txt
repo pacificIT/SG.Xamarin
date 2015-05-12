@@ -1,0 +1,9 @@
+C:\Projects\NewTools\SG\SG\SG\SG\bin\Debug\SG.dll
+C:\Projects\NewTools\SG\SG\SG\SG\bin\Debug\SG.pdb
+C:\Projects\NewTools\SG\SG\SG\SG\bin\Debug\Xamarin.Forms.Core.dll
+C:\Projects\NewTools\SG\SG\SG\SG\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Projects\NewTools\SG\SG\SG\SG\bin\Debug\Xamarin.Forms.Core.xml
+C:\Projects\NewTools\SG\SG\SG\SG\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Projects\NewTools\SG\SG\SG\SG\obj\Debug\SG.csprojResolveAssemblyReference.cache
+C:\Projects\NewTools\SG\SG\SG\SG\obj\Debug\SG.dll
+C:\Projects\NewTools\SG\SG\SG\SG\obj\Debug\SG.pdb
